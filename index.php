@@ -122,7 +122,7 @@ print '
 	print '
 	</main>
 	<footer>
-		<p>Copyright &copy; ' . date("Y") . ' Alen Šimec. <a href="https://github.com/asimec1/project-php-api" style="color:#fff">GITHub</a></p>
+		<p>Copyright &copy; ' . date("Y") . ' Alen Šimec. <a href="https://github.com/asimec1/projekt-php" style="color:#fff">GITHub</a></p>
 	</footer>';
 ?>
 	<script>
