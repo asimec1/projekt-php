@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<items> 
+
+    <item>
+
+        <title>PHP Shopping Cart with PayPal Payment Gateway Integration</title>
+
+        <link>http://phppot.com/php/php-shopping-cart-with-paypal-payment-gateway-integration/</link>
+
+        <description>Shopping cart checkout with payment gateway integration (PayPal) is a most wanted article for the PHP shopping cart coders. In this article, we are going to integrate PayPal payment gateway with the shopping cart.</description> 
+
+        <keywords>Shopping,Cart</keywords> 
+
+    </item> 
+
+    <item>
+
+        <title>Responsive Contact Form with PHP</title>
+
+        <link>http://phppot.com/php/responsive-contact-form-with-php/</link>
+
+        <description>The responsive contact form is designed to fit various viewport in different width. I used CSS media queries to design this responsive contact form.</description> 
+
+        <keywords>Contact-Form, Responsive</keywords> 
+
+    </item> 
+
+    <item>
+
+        <title>Loading Dynamic Content on a Bootstrap Modal using jQuery</title>
+
+        <link>http://phppot.com/jquery/loading-dynamic-content-on-a-bootstrap-modal-using-jquery/</link>
+
+        <description>Modal window can be shown in various ways by using jQuery, Bootstrap and others. In this tutorial, we are going to show the Bootstrap modal. </description> 
+
+        <keywords>Modal-Window, Bootstrap</keywords> 
+
+    </item> 
+
+</items>
