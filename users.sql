@@ -43,8 +43,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `firstname`, `lastname`, `email`, `username`, `password`, `country`, `date`, `archive`) VALUES
-(14, 'Alen', 'Å imec', '', 'asimec1', '$2y$12$MvEg.TeRkTn9zUUwc0ALyux..9cI5IXSukNi/V3qtyk3wy3DMxbW6', 'HR', '2016-12-13 09:37:04', 'Y'),
-(15, 'Alen', 'Å imec', 'alen@eburza.hr', 'asimec', '$2y$12$l6kg1uoF7gLQeyz.fhfItu/2WLcMFkAB0HMSouo8LZH2lMglkqLkS', 'KH', '2017-12-12 11:18:43', 'Y');
+(14, 'Alen', 'Šimec', '', 'as', '$2y$12$MvEg.TeRkTn9z0ALyux..9cI5IXSukNi/V3qtyk3wy3DMxbW6', 'HR', '2016-12-13 09:37:04', 'Y');
 
 --
 -- Indexes for dumped tables
